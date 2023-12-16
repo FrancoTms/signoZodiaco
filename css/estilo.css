@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
